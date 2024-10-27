@@ -133,6 +133,9 @@ board](https://holopin.me/aneeshgupta2512)](https://holopin.io/@aneeshgupta2512)
   />
 </p>
 
+<h3 align="left">Github Stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshgupta25&" alt="aneeshgupta25" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
