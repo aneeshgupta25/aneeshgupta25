@@ -117,24 +117,21 @@ board](https://holopin.me/aneeshgupta2512)](https://holopin.io/@aneeshgupta2512)
   /></a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshgupta25&show_icons=true&locale=en&layout=compact"
-    alt="aneeshgupta25"
-  />
-</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshgupta25&" alt="aneeshgupta25" /></p>
 
 <p>
-  &nbsp;<img
-    align="center"
+  <img    
     src="https://github-readme-stats.vercel.app/api?username=aneeshgupta25&show_icons=true&locale=en"
     alt="aneeshgupta25"
   />
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshgupta25&" alt="aneeshgupta25" /></p>
+<p>
+  <img    
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshgupta25&show_icons=true&locale=en&layout=compact"
+    alt="aneeshgupta25"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
